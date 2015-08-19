@@ -12,6 +12,14 @@ Eventually, if there aren't already, there are going to be some cool tutorials a
 
 ### Installing
 
+If you have git, clone this repo
+
+    git clone git@github.com:brewneaux/mysql-vagrant.git
+    
+If you don't have git, you can use the zip file download
+
+    https://github.com/brewneaux/mysql-vagrant/archive/master.zip
+
 Make sure you have [Vagrant](http://docs.vagrantup.com/v2/getting-started/) up and going, and then just
 
      $ vagrant up
